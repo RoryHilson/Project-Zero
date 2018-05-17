@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a1dff51c4d76274e9de74b88c92dd44
+timeCreated: 1490747912
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - explodeSprite: {fileID: 100000, guid: a7ed0315d0e664da9bcb03d47e23e682, type: 2}
+  - BulletObject: {fileID: 1407180353179330, guid: ecc85db8720cee441a72369654be7631,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
